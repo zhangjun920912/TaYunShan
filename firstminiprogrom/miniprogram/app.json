@@ -21,6 +21,26 @@
     "navigationBarTitleText": "镇安塔云山",
     "navigationBarTextStyle": "white"
   },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath":"pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath":"pages/index/index",
+        "text": "选购"
+      },
+      {
+        "pagePath":"pages/index/index",
+        "text": "购物车"
+      },
+      {
+        "pagePath":"pages/index/index",
+        "text": "我的"
+      }
+    ]
+  },
   "sitemapLocation": "sitemap.json",
   "style": "v2"
 }
